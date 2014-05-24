@@ -13,6 +13,6 @@ The actual dataset can be downloaded from
 ##Running the script
 Fork the current repository. The main script is called "run_analysis.R"
 
-Adter downloading the data from the above link, unzip it and run "run_analysis.R". Make sure the directory UCI HAR Dataset is present at the same level as the R script.
+After downloading the data from the above link, unzip it and run "run_analysis.R". Make sure the directory UCI HAR Dataset is present at the same level as the R script.
 
 After running the R script, a new file called tidy_data.txt will be produced.
